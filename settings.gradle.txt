@@ -1,0 +1,4 @@
+// محل قرارگیری: settings.gradle (در ریشه‌ی پروژه)
+
+rootProject.name = "FileFlag"
+include ':app'
